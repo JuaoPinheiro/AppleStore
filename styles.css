@@ -83,6 +83,7 @@ p {
 
 button {
     position: absolute;
+    background-color: transparent;
     width: 335px;
     height: 91px;
     left: 198px;
